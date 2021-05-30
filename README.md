@@ -1,6 +1,6 @@
 # Objective 
 
-This is a workup of the Horiseon Proposed Homepage.  
+This is a workup of the Proposed Horiseon Homepage.  
 
 ## Mockup Image
 
