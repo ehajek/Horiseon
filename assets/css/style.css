@@ -6,38 +6,37 @@
 
 body {
     background-color: #d9dcd6;
-    font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
 }
 
-header {
+.header {
     padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    color: #ffffff;
 }
 
-header h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
-    color: white;
-    display: inline;
 }
 
-header h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-header nav ul {
+.header div ul {
     list-style-type: none;
 }
 
-header nav ul li {
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
