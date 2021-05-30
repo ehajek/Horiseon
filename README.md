@@ -1,6 +1,9 @@
 # Objective 
 
-This is a workup of the Proposed Horiseon Homepage.  
+This is a workup of the Proposed Horiseon Homepage. 
+The project is to: 
+    Follows accessibility standards
+    THe site is optimized for search engines
 
 ## Mockup Image
 
